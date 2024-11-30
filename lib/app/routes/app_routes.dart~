@@ -1,0 +1,107 @@
+part of 'app_pages.dart';
+// DO NOT EDIT. This is code generated via package:get_cli/get_cli.dart
+
+abstract class Routes {
+  Routes._();
+
+  static const String HOME = _Paths.HOME;
+  static const String START = _Paths.START;
+  static const String SHOW_TABS = _Paths.SHOW_TABS;
+  static const String LOGIN = _Paths.LOGIN;
+  static const String RESET_PASWORD = _Paths.RESET_PASWORD;
+  static const String VERIFY = _Paths.VERIFY;
+  static const String SIGN_UP = _Paths.SIGN_UP;
+  static const String RESULT = _Paths.RESULT;
+  static const String CHAT = _Paths.CHAT;
+  static const String START_CHAT = _Paths.START_CHAT;
+  static const String SUBJECTS_SCHEDULE = _Paths.SUBJECTS_SCHEDULE;
+  static const String PAYMENT = _Paths.PAYMENT;
+  static const String EXAMS_SCHEDULE = _Paths.EXAMS_SCHEDULE;
+  static const String ALL_SUBJECTS = _Paths.ALL_SUBJECTS;
+  static const String END = _Paths.END;
+  static const String SUBJECT = _Paths.SUBJECT;
+  static const String AUTH = _Paths.AUTH;
+  static const String EXAM = _Paths.EXAM;
+  static const String MAIN_EXAM = _Paths.MAIN_EXAM;
+  static const String SPLASH = _Paths.SPLASH;
+  static const ATTENCANCE = _Paths.ATTENCANCE;
+  static const LECTURES = _Paths.LECTURES;
+  static const EDIT_EXAMS_SCHEDULE = _Paths.EDIT_EXAMS_SCHEDULE;
+  static const RESULTS = _Paths.RESULTS;
+  static const ANNOUNCEMENTS = _Paths.ANNOUNCEMENTS;
+  static const TEACHER_SUBJECT_SCHEDULE = _Paths.TEACHER_SUBJECT_SCHEDULE;
+  static const STUDENT_STATISTICS = _Paths.STUDENT_STATISTICS;
+  static const ADD_LECTURE = _Paths.ADD_LECTURE;
+  static const ADD_ANNOUNCEMENT = _Paths.ADD_ANNOUNCEMENT;
+  static const NEW_CHAT = _Paths.NEW_CHAT;
+  static const ANNOUNCEMENT_DETAILS = _Paths.ANNOUNCEMENT_DETAILS;
+  static const TERMS_CONDITIONS = _Paths.TERMS_CONDITIONS;
+  static const PRIVACY_POLICY = _Paths.PRIVACY_POLICY;
+  static const ABOUT = _Paths.ABOUT;
+  static const IMAGE_VIEWER = _Paths.IMAGE_VIEWER;
+  static const VIEW_ATTENDANCE = _Paths.VIEW_ATTENDANCE;
+  static const SUBMIT_ATTENDANCE = _Paths.SUBMIT_ATTENDANCE;
+  static const LECTURE_DETAILS = _Paths.LECTURE_DETAILS;
+  static const MULTI_MESSAGE = _Paths.MULTI_MESSAGE;
+  static const STUDENT_ATTENDENCE_REPORT = _Paths.STUDENT_ATTENDENCE_REPORT;
+  static const BEHAVIORS = _Paths.BEHAVIORS;
+  static const ADDBEHAVIOR = _Paths.ADDBEHAVIOR;
+  static const BEHAVIOR_DETAILS = _Paths.BEHAVIOR_DETAILS;
+  static const TESTS = _Paths.TESTS;
+  static const ADD_TEST = _Paths.ADD_TEST;
+  static const TEST_QUESTIONS = _Paths.TEST_QUESTIONS;
+  static const ADD_QUESTION = _Paths.ADD_QUESTION;
+  static const LEC_DET = _Paths.LEC_DET;
+
+ }
+
+abstract class _Paths {
+  static const String HOME = '/home';
+  static const String START = '/start';
+  static const String SHOW_TABS = '/show-tabs';
+  static const String LOGIN = '/login';
+  static const String RESET_PASWORD = '/reset-pasword';
+  static const String VERIFY = '/verify';
+  static const String SIGN_UP = '/sign-up';
+  static const String RESULT = '/result';
+  static const String CHAT = '/chat';
+  static const String START_CHAT = '/start-chat';
+  static const String SUBJECTS_SCHEDULE = '/subjects-schedule';
+  static const String PAYMENT = '/payment';
+  static const String EXAMS_SCHEDULE = '/exams-schedule';
+  static const String ALL_SUBJECTS = '/all-subjects';
+  static const String END = '/end';
+  static const String SUBJECT = '/subject';
+  static const String AUTH = '/auth';
+  static const String EXAM = '/exam';
+  static const String MAIN_EXAM = '/main-exam';
+  static const String SPLASH = '/splash';
+  static const ATTENCANCE = '/attencance';
+  static const LECTURES = '/lectures';
+  static const EDIT_EXAMS_SCHEDULE = '/edit-exams-schedule';
+  static const RESULTS = '/results';
+  static const ANNOUNCEMENTS = '/announcements';
+  static const TEACHER_SUBJECT_SCHEDULE = '/teacher-subject-schedule';
+  static const STUDENT_STATISTICS = '/student-statistics';
+  static const ADD_LECTURE = '/add-lecture';
+  static const ADD_ANNOUNCEMENT = '/add-announcement';
+  static const NEW_CHAT = '/new-chat';
+  static const ANNOUNCEMENT_DETAILS = '/announcement-details';
+  static const TERMS_CONDITIONS = '/terms-conditions';
+  static const PRIVACY_POLICY = '/privacy-policy';
+  static const ABOUT = '/about';
+  static const IMAGE_VIEWER = '/image-viewer';
+  static const VIEW_ATTENDANCE = '/view-attendance';
+  static const SUBMIT_ATTENDANCE = '/submit-attendance';
+  static const LECTURE_DETAILS = '/lecture_details';
+  static const MULTI_MESSAGE = '/multi_message';
+  static const STUDENT_ATTENDENCE_REPORT = '/student_attendence_report';
+  static const BEHAVIORS = '/behaviors';
+  static const ADDBEHAVIOR = '/add_behavior';
+  static const BEHAVIOR_DETAILS = '/behavior_details';
+  static const TESTS = '/tests';
+  static const ADD_TEST = '/add_test';
+  static const ADD_QUESTION = '/add_questoin';
+  static const TEST_QUESTIONS = '/test_questions';
+  static const LEC_DET = '/lec_det';
+ }

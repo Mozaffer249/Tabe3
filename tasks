@@ -1,0 +1,34 @@
+
+  return student imageUrl for parent (LoginCustomer)action, progress
+
+  attendence report for teacher and  parent, Done
+
+  pub up update add last version of app to returned  (app info) , Done
+
+  return absence reason in (ViewStudentAttendance), Done
+
+
+   2\
+  a- add call icon in submet-attendence. need api  viewStudentAttendance
+  b- specify all classes in add-lecture and announcment.Done
+  c- pin save button in attendance. Done
+  d- reverse attendance report list. Done
+  e- add date to added lecture and reverse list. need api UploadLesson
+
+
+
+delete api ation for announce.
+add tranclated date time for announce.
+update add api action to send two parameter weather one.
+pass parameter to another controller.
+added google drive integration.
+check internet connection.
+add table in attendence page.
+add table for attendance in another page.
+add api action to add behavior .
+add api action to get behavior and put in list.
+add dialog to view two phone number to call it.
+add time picker and date picker.
+add text field in every list view item and send it to api action .
+convert dropdown list to multi selection check box.
+select multi contact in chat and new chat.
